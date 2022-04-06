@@ -1,4 +1,4 @@
-import { Component, NgModule, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Board } from 'src/app/models/board.model';
 import { Column } from 'src/app/models/column.model';
 import{ CdkDragDrop, moveItemInArray, transferArrayItem} from '@angular/cdk/drag-drop';
