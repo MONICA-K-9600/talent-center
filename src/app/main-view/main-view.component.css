@@ -5,19 +5,6 @@ button {
     margin-right: 10PX;
 }
 
-.root {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    margin: 20px;
-}
-
-.app-name {
-    font-size: 28px;
-    font-weight: bold;
-    float: left;
-}
-
 .app-btn {
     float: right;
     margin: 30px;
@@ -26,14 +13,6 @@ button {
     align-content: center;
     justify-content: space-between;
     align-items: center;
-}
-
-.board {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    min-width: 0;
-    min-height: 0;
 }
 
 .board-content {
